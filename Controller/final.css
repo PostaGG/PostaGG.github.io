@@ -1,0 +1,35 @@
+.controller.ds4.white {
+    background-image: url(base_mod.png);
+}
+
+.ds4.white.disconnected {
+    background: url(ps4-assets/disconnected.svgz);
+}
+
+.ds4.white .trigger {
+    background-image: url(triggers_mod.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(bumper_mod.png);
+}
+
+.ds4.white .touchpad.pressed {
+    background-image: url(ps4-white-assets/touchpad.svgz);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(start_mod.png);
+}
+
+.ds4.white .button {
+    background-image: url(face_mod.png);
+}
+
+.ds4.white .stick {
+    background-image: url(sticks_mod.png);
+}
+
+.ds4.white .face {
+    background-image: url(dpad_mod.png);
+}
