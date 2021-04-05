@@ -1,5 +1,5 @@
 .controller.ds4.white {
-    background-image: url(base_ROAK.png);
+    background-image: url(base_VulV2.png);
 }
 
 .ds4.white.disconnected {
@@ -7,11 +7,11 @@
 }
 
 .ds4.white .trigger {
-    background-image: url(triggers_ROAK.png);
+    background-image: url(triggers_VulV2.png);
 }
 
 .ds4.white .bumper {
-    background-image: url(bumper_ROAK.png);
+    background-image: url(bumper_VulV2.png);
 }
 
 .ds4.white .touchpad.pressed {
@@ -19,17 +19,17 @@
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(start_ROAK.png);
+    background-image: url(start_VulV2.png);
 }
 
 .ds4.white .button {
-    background-image: url(face_ROAK.png);
+    background-image: url(face_VulV2.png);
 }
 
 .ds4.white .stick {
-    background-image: url(sticks_ROAK.png);
+    background-image: url(sticks_VulV2.png);
 }
 
 .ds4.white .face {
-    background-image: url(dpad_ROAK.png);
+    background-image: url(dpad_VulV2.png);
 }
